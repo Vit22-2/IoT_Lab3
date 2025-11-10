@@ -43,3 +43,7 @@
 - Verify that the ESP32 connects to your Wi-Fi successfully.
 - Open **[MQTT Explorer](https://github.com/thomasnordquist/MQTT-Explorer/releases/tag/v0.4.0-beta.6)**.  
 - Connect to the thingsbooard dashboard.
+
+## Screenshots of MQTT and Thingsboard
+
+## Short demo video (60–90s)
