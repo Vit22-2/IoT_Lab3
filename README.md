@@ -41,7 +41,3 @@
   - Open your device and check Latest Telemetry
   - Create a dashboard widget (e.g., gauge or chart) to visualize the values.
 - Use BMP280 readings for live environment monitoring.
-
-## Screenshots of MQTT and Thingsboard
-
-## Short demo video (60–90s)
