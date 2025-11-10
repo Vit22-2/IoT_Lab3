@@ -31,7 +31,7 @@
 ## Usage Instructions
 
 - Upload Files to ESP32
-  - In Thonny, open and upload bmp280.py and main.py to the ESP32.
+  - In Thonny, open and upload bmp280.py and lab3.py to the ESP32.
   - Run the Code
   - The Thonny Shell will show live temperature, pressure, and altitude values.
 - MQTT Testing
