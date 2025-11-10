@@ -31,15 +31,15 @@
 ## Usage Instructions
 
 - Upload Files to ESP32
- - In Thonny, open and upload bmp280.py and main.py to the ESP32.
- - Run the Code
- - The Thonny Shell will show live temperature, pressure, and altitude values.
+  - In Thonny, open and upload bmp280.py and main.py to the ESP32.
+  - Run the Code
+  - The Thonny Shell will show live temperature, pressure, and altitude values.
 - MQTT Testing
- - Open MQTT Explorer, connect to test.mosquitto.org, and search your topic (e.g. aupp/lab/random). You’ll see data published every 5 seconds.
+  - Open MQTT Explorer, connect to test.mosquitto.org, and search your topic (e.g. aupp/lab/random). You’ll see data published every 5 seconds.
 - ThingsBoard Cloud Dashboard
- - Log in to ThingsBoard Cloud
- - Open your device and check Latest Telemetry
- - Create a dashboard widget (e.g., gauge or chart) to visualize the values.
+  - Log in to ThingsBoard Cloud
+  - Open your device and check Latest Telemetry
+  - Create a dashboard widget (e.g., gauge or chart) to visualize the values.
 - Use BMP280 readings for live environment monitoring.
 
 ## Screenshots of MQTT and Thingsboard
