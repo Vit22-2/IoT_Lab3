@@ -30,19 +30,17 @@
 
 ## Usage Instructions
 
-- Open **Thonny IDE** and connect your **ESP32** board.  
-- Upload the following files to the ESP32:
-   - `bmp280.py` → BMP280 driver  
-   - `main.py` → Main program (choose MQTT or ThingsBoard version)  
-- Make sure both files appear in the **device sidebar** in Thonny.
-- Click Run in Thonny to execute the code.  
-- Watch the output to see:
-   - Temperature (°C)  
-   - Pressure (hPa)  
-   - Altitude (m)  
-- Verify that the ESP32 connects to your Wi-Fi successfully.
-- Open **[MQTT Explorer](https://github.com/thomasnordquist/MQTT-Explorer/releases/tag/v0.4.0-beta.6)**.  
-- Connect to the thingsbooard dashboard.
+- Upload Files to ESP32
+ - In Thonny, open and upload bmp280.py and main.py to the ESP32.
+ - Run the Code
+ - The Thonny Shell will show live temperature, pressure, and altitude values.
+- MQTT Testing
+ - Open MQTT Explorer, connect to test.mosquitto.org, and search your topic (e.g. aupp/lab/random). You’ll see data published every 5 seconds.
+- ThingsBoard Cloud Dashboard
+ - Log in to ThingsBoard Cloud
+ - Open your device and check Latest Telemetry
+ - Create a dashboard widget (e.g., gauge or chart) to visualize the values.
+- Use BMP280 readings for live environment monitoring.
 
 ## Screenshots of MQTT and Thingsboard
 
