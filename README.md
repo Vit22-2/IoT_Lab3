@@ -1,4 +1,4 @@
-<img width="1602" height="847" alt="image" src="https://github.com/user-attachments/assets/ff48a6a2-0965-4f75-a80c-6344b02e6790" /># IoT_Lab3
+# IoT_Lab3
 
 ## Features
 
