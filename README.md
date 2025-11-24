@@ -48,3 +48,4 @@
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/528a02a4-6d71-42eb-b249-8b1609fa4246" />
 
 ## Short Demo Video
+https://youtu.be/YHIznqjA7co
