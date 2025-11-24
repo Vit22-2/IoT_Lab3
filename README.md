@@ -41,3 +41,10 @@
   - Open your device and check Latest Telemetry
   - Create a dashboard widget (e.g., gauge or chart) to visualize the values.
 - Use BMP280 readings for live environment monitoring.
+
+## Screenshots
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/b0b5a0b8-9ea9-4cb2-b9cc-af37b8d1fe74" />
+
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/528a02a4-6d71-42eb-b249-8b1609fa4246" />
+
+## Short Demo Video
